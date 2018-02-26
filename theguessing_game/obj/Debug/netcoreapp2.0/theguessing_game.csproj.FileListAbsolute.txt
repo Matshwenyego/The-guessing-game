@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\bin\Debug\netcoreapp2.0\theguessing_game.deps.json
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\bin\Debug\netcoreapp2.0\theguessing_game.runtimeconfig.json
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\bin\Debug\netcoreapp2.0\theguessing_game.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\bin\Debug\netcoreapp2.0\theguessing_game.dll
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\bin\Debug\netcoreapp2.0\theguessing_game.pdb
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\obj\Debug\netcoreapp2.0\theguessing_game.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\obj\Debug\netcoreapp2.0\theguessing_game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\obj\Debug\netcoreapp2.0\theguessing_game.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\obj\Debug\netcoreapp2.0\theguessing_game.AssemblyInfo.cs
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\obj\Debug\netcoreapp2.0\theguessing_game.dll
+C:\Users\DELL\source\repos\theguessing_game\theguessing_game\obj\Debug\netcoreapp2.0\theguessing_game.pdb
